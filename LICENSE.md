@@ -1,4 +1,4 @@
-# 
+# Avancé FaceVerify configuration. Téléchargez et installez avec surveillance en temps réel et système de plugins — rapide, sécurisé et facile à utiliser.
 
 
 
